@@ -4,15 +4,16 @@
 
 <br/>
 
-[![Uptime](assets/uptime-badge.svg)](https://axis-hosting.vercel.app/hosting)
 [![Discord Bot](https://img.shields.io/badge/Discord-Bot%20Hosting-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://axis-hosting.vercel.app/hosting)
 [![24/7](https://img.shields.io/badge/Uptime-24%2F7-22c55e?style=for-the-badge&logo=statuspage&logoColor=white)](https://axis-hosting.vercel.app/hosting)
-[![Free Plan](https://img.shields.io/badge/Free%20Plan-2%20Bots-7c3aed?style=for-the-badge&logo=cashapp&logoColor=white)](https://axis-hosting.vercel.app/hosting)
+[![Free Plan](https://img.shields.io/badge/Free%20Plan-Forever-22c55e?style=for-the-badge)](https://axis-hosting.vercel.app/hosting)
+[![Pro](https://img.shields.io/badge/Pro-₹299%20%2F%2015d-7c3aed?style=for-the-badge)](https://axis-hosting.vercel.app/hosting)
+[![VIP](https://img.shields.io/badge/VIP-₹500%20%2F%2060d-f59e0b?style=for-the-badge)](https://axis-hosting.vercel.app/hosting)
 
 # 🚀 Axis Hosting
-### *Reliable Discord Bot Hosting — 2 Bots Free!*
+### *Reliable Discord Bot Hosting — Free Plan Never Expires!*
 
-> ⚡ **24/7 Online** &nbsp;|&nbsp; 🔄 **Auto-Restart** &nbsp;|&nbsp; 🤖 **2 Bots Free** &nbsp;|&nbsp; ⚡ **Real-Time Working**
+> ⚡ **24/7 Online** &nbsp;|&nbsp; 🔄 **Auto-Restart** &nbsp;|&nbsp; 🆓 **Free Forever** &nbsp;|&nbsp; 💎 **Paid Plans Available**
 
 </div>
 
@@ -22,9 +23,9 @@
 
 <img align="right" src="assets/bot-icon.svg" width="100" height="100"/>
 
-**Axis Hosting** ek reliable Discord bot hosting platform hai jo aapke bots ko **24 ghante, 7 din** online rakhta hai — bina kisi interruption ke.
+**Axis Hosting** ek reliable Discord bot hosting platform hai jo aapke bots ko **24 ghante, 7 din** online rakhta hai.
 
-> 🎁 **Free Plan mein 2 bots host kar sakte ho!** Zyada bots ke liye paid plans available hain.
+> 🆓 **Free plan kabhi expire nahi hota!** Paid plans mein sare modules unlock ho jaate hain — expire hone par premium bots offline ho jaate hain jab tak renew na karo.
 
 🌐 **Website:** [axis-hosting.vercel.app/hosting](https://axis-hosting.vercel.app/hosting)
 
@@ -32,12 +33,25 @@
 
 ## 💰 Pricing Plans
 
-| &nbsp; | Plan | Bots | Price |
-|:---:|---|:---:|:---:|
-| 🎁 | **Free Plan** | 2 Bots | ₹0 / Free |
-| 🚀 | **Paid Plan** | More Bots | Paid |
+| &nbsp; | Plan | Price | Duration | Bots |
+|:---:|---|:---:|:---:|---|
+| 🆓 | **Free** | ₹0 | Forever ♾️ | Simple bots only |
+| 🚀 | **Starter** | ₹20 | 2 Days | All bot modules |
+| 💎 | **Pro** | ₹299 | 15 Days | All bot modules |
+| 👑 | **VIP** | ₹500 | 60 Days | All bot modules + VIP perks |
+| 🛡️ | **Admin Panel** | ₹799 | 7 Days | Admin tools only |
 
-> 🎁 Shuru karo **2 free bots** ke saath — upgrade karo jab chahiye!
+> ⚠️ Paid plan expire hone par premium bots offline ho jaate hain — renew karo to continue!
+
+---
+
+## 🆓 Free Plan Details — ₹0 Forever
+
+- ✅ Simple bot hosting (kabhi expire nahi)
+- ✅ Welcome + Support + Simple command bots
+- ✅ Custom command prefix
+- ✅ Normal listing promotion
+- ✅ Open hosting
 
 ---
 
@@ -45,29 +59,28 @@
 
 | &nbsp; | Feature | Details |
 |:---:|---|---|
-| ⏰ | **24/7 Uptime** | Aapka bot hamesha online rahega, din ho ya raat |
+| ⏰ | **24/7 Uptime** | Aapka bot hamesha online rahega |
 | ⚡ | **Real-Time Working** | Bot real-time mein commands handle karta hai |
-| 🔄 | **Auto-Restart** | Agar bot crash ho to automatically restart ho jata hai |
-| 🎁 | **2 Bots Free** | Free plan mein 2 bots host kar sakte ho |
-| 🛡️ | **Stable Servers** | High-performance aur stable server infrastructure |
+| 🔄 | **Auto-Restart** | Agar bot crash ho to automatically restart |
+| 🆓 | **Free Forever** | Free plan kabhi expire nahi hoti |
+| 🛡️ | **Stable Servers** | High-performance aur stable infrastructure |
 | 🚀 | **Easy Deployment** | Simple aur fast bot deploy karna |
-| 🌐 | **Always Online** | 24 hours, 365 days bot online rahega |
 | 🔒 | **Secure** | Aapka bot aur data safe rahega |
 
 ---
 
 ## 📦 Supported Bot Types
 
-| Bot | Type | Status |
-|:---:|---|:---:|
-| 🎵 | Music Bot | ✅ |
-| 🛡️ | Moderation Bot | ✅ |
-| 🎮 | Fun & Games Bot | ✅ |
-| 📊 | Utility & Info Bot | ✅ |
-| 🤖 | Custom Command Bot | ✅ |
-| 🎉 | Welcome & Farewell Bot | ✅ |
-| 📢 | Announcement Bot | ✅ |
-| 🎲 | Leveling & XP Bot | ✅ |
+| Bot | Type | Free | Paid |
+|:---:|---|:---:|:---:|
+| 🎵 | Music Bot | ❌ | ✅ |
+| 🛡️ | Moderation Bot | ❌ | ✅ |
+| 🎮 | Fun & Games Bot | ❌ | ✅ |
+| 📊 | Utility & Info Bot | ❌ | ✅ |
+| 🤖 | Custom Command Bot | ✅ | ✅ |
+| 🎉 | Welcome & Farewell Bot | ✅ | ✅ |
+| 💬 | Support Bot | ✅ | ✅ |
+| 📢 | Announcement Bot | ❌ | ✅ |
 
 ---
 
@@ -76,21 +89,10 @@
 ```
 1. 🔗  axis-hosting.vercel.app/hosting visit karo
 2. 📝  Account banao
-3. 🤖  Apna bot upload karo (2 bots free!)
-4. ▶️  Start karo
+3. 🤖  Free plan se shuru karo
+4. 💎  Paid plan lo jab zyada features chahiye
 5. ✅  Bot 24/7 online!
 ```
-
----
-
-## 💡 Kyun Choose Karein Axis Hosting?
-
-- 🎁 **2 Bots Free** — shuru karne ke liye perfect
-- ✅ **Zero Downtime** — bot kabhi offline nahi hoga
-- ✅ **Fast & Reliable** — high-speed servers
-- ✅ **Easy to Use** — beginner friendly
-- ✅ **Real-Time Performance** — instant response
-- ✅ **Auto-Restart** — crash hone par automatic recovery
 
 ---
 
@@ -98,7 +100,6 @@
 
 ### 🌟 [Visit Axis Hosting Now!](https://axis-hosting.vercel.app/hosting) 🌟
 
-![visitors](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/sumitjilowa34-oss/axiom-hosting?style=for-the-badge&color=yellow)
 
 > ⭐ Agar aapko ye hosting pasand aayi to is repo ko **Star** zaroor karein!

@@ -16,16 +16,20 @@
 ╠══════════════════════════════════════╣
 ║                                      ║
 ║  🤖 Discord Bot Hosting              ║
-║  🎁 2 Bots FREE — Shuru Karo Aaj!   ║
+║  🆓 Free Plan — Never Expires!       ║
 ║                                      ║
 ║  ✅  24/7 Bot Online                 ║
-║  ✅  Real-Time Working               ║
 ║  ✅  Auto-Restart on Crash           ║
-║  ✅  Zero Downtime                   ║
-║  ✅  All Bot Types Supported         ║
-║  ✅  Easy 1-Click Deployment         ║
+║  ✅  Real-Time Working               ║
+║  ✅  Free Plan Forever               ║
+║  💎  Paid Plans for All Modules      ║
 ║                                      ║
-║  🎵 Music  🛡️ Mod  🎮 Fun  📊 Util  ║
+║  💰 PLANS:                           ║
+║  🆓 Free   — ₹0     Forever          ║
+║  🚀 Starter — ₹20   / 2 Days         ║
+║  💎 Pro    — ₹299   / 15 Days        ║
+║  👑 VIP    — ₹500   / 60 Days        ║
+║  🛡️ Admin  — ₹799   / 7 Days         ║
 ║                                      ║
 ║  🔗 axis-hosting.vercel.app/hosting  ║
 ╚══════════════════════════════════════╝
@@ -39,10 +43,14 @@
 🤖 Discord Bot Hosting chahiye?
 Axis Hosting try karo!
 
-🎁 2 Bots BILKUL FREE!
-⚡ 24/7 Online
-⚡ Auto-Restart
-⚡ Real-Time Working
+🆓 Free Plan — Kabhi Expire Nahi!
+💎 Paid Plans — Sare Modules Unlock!
+
+💰 Plans:
+• Free  → ₹0 Forever
+• Starter → ₹20 / 2 Days
+• Pro   → ₹299 / 15 Days
+• VIP   → ₹500 / 60 Days
 
 🔗 axis-hosting.vercel.app/hosting
 ```
@@ -52,16 +60,19 @@ Axis Hosting try karo!
 ## 🐦 Twitter / X Post
 
 ```
-🚀 Hosting your Discord bot?
+🚀 Discord Bot Hosting?
 Try Axis Hosting!
 
-🎁 2 Bots FREE to start!
-✅ 24/7 Uptime
-✅ Auto-Restart
-✅ Real-Time Performance
-✅ All Bot Types Supported
+🆓 Free Plan — Never Expires!
+💎 Paid Plans unlock everything!
 
-Keep your bot ALWAYS online 🤖⚡
+💰 Plans starting ₹20:
+• Starter  ₹20  / 2 Days
+• Pro      ₹299 / 15 Days  
+• VIP      ₹500 / 60 Days
+• Admin    ₹799 / 7 Days
+
+🤖⚡ Keep your bot ALWAYS online!
 👉 axis-hosting.vercel.app/hosting
 
 #Discord #BotHosting #DiscordBot #Dev
@@ -74,20 +85,24 @@ Keep your bot ALWAYS online 🤖⚡
 ```
 🌟 __**AXIS HOSTING**__ 🌟
 
-> 🤖 Apne Discord Bot ko 24/7 online rakho!
-> 🎁 **2 Bots FREE** — aaj hi shuru karo!
+> 🤖 Discord Bot Hosting — Free Plan Kabhi Expire Nahi!
 
 🔥 **Features:**
 ╠ ⏰ 24/7 Uptime Guaranteed
 ╠ ⚡ Real-Time Working
 ╠ 🔄 Auto-Restart on Crash
-╠ 🎁 2 Bots Free Plan
-╠ 🛡️ Stable & Reliable Servers
-╚ 🚀 Easy 1-Click Deployment
+╠ 🆓 Free Plan Forever
+╚ 💎 Paid Plans for All Modules
 
-🤖 **Supported Bots:**
-> 🎵 Music • 🛡️ Moderation • 🎮 Fun
-> 📊 Utility • 🎉 Welcome • 🤖 Custom
+💰 **Plans:**
+> 🆓 Free    — ₹0 / Forever
+> 🚀 Starter — ₹20 / 2 Days
+> 💎 Pro     — ₹299 / 15 Days
+> 👑 VIP     — ₹500 / 60 Days
+> 🛡️ Admin   — ₹799 / 7 Days
+
+⚠️ Paid plan expire hone par premium bots offline!
+Renew karo to wapas online lao.
 
 🔗 **Link:** axis-hosting.vercel.app/hosting
 ```
@@ -97,5 +112,6 @@ Keep your bot ALWAYS online 🤖⚡
 <div align="center">
 
 [![Visit Now](https://img.shields.io/badge/🚀%20Visit%20Now-Axis%20Hosting-7c3aed?style=for-the-badge)](https://axis-hosting.vercel.app/hosting)
+[![Plans](https://img.shields.io/badge/💰%20Plans-₹0%20to%20₹799-f59e0b?style=for-the-badge)](https://axis-hosting.vercel.app/hosting)
 
 </div>
