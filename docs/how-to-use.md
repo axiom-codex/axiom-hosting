@@ -1,42 +1,67 @@
-# 🏁 Axis Hosting — Kaise Use Karein?
+<div align="center">
 
-## Step-by-Step Guide
+![Axis Hosting Banner](assets/banner.svg)
 
-### Step 1: Website Visit Karein
-🔗 [axis-hosting.vercel.app/hosting](https://axis-hosting.vercel.app/hosting) par jaao.
+# 🏁 Axis Hosting — Bot Setup Guide
 
-### Step 2: Account Banao
-Apni details se free account create karo.
-Koi payment required nahi.
+> 💙 Koi code upload nahi! Bas details bharo aur bot invite karo — Done!
 
-### Step 3: Bot Files Upload Karein
-Apna Discord bot ka code upload karo.
-- Python bot (discord.py)
-- Node.js bot (discord.js)
-- Ya koi bhi supported language
-
-### Step 4: Bot Start Karein
-Ek click mein apna bot start karo.
-
-### Step 5: Enjoy 24/7 Hosting! 🎉
-Ab aapka bot hamesha online rahega!
+</div>
 
 ---
 
-## ❓ FAQ
+## ⚡ Itna Aasan Hai!
 
-**Q: Kya ye bilkul free hai?**
-A: Haan, Axis Hosting 100% free hai.
-
-**Q: Bot kabhi offline hoga?**
-A: Nahi! 24/7 uptime guaranteed hai.
-
-**Q: Kaunsi languages support hoti hain?**
-A: Python (discord.py) aur Node.js (discord.js) support hota hai.
-
-**Q: Bot crash hone par kya hoga?**
-A: Auto-restart feature se bot automatically restart ho jata hai.
+> Koi bhi field ya code select karne ki zarurat **NAHI** hai.
+> Bas 4 cheezein chahiye — aur aapka bot Discord server mein online ho jayega!
 
 ---
 
-🔗 **Website:** [axis-hosting.vercel.app/hosting](https://axis-hosting.vercel.app/hosting)
+## 📋 Jo Chahiye Hoga
+
+| &nbsp; | Detail | Kahan Milega? |
+|:---:|---|---|
+| 🔑 | **Bot Token** | Discord Developer Portal → Bot section |
+| 🔵 | **Client ID** | Discord Developer Portal → OAuth2 section |
+| 💬 | **Server ID** | Discord server → Right click → Copy Server ID |
+| 📵 | **Channel ID** | Discord channel → Right click → Copy Channel ID |
+
+---
+
+## 🚀 Kaise Kare? — Bas 3 Steps!
+
+### Step 1 — Details Bharo
+```
+Bot Token   : apna bot token yahan paste karo
+Client ID   : apna client ID yahan paste karo
+Server ID   : apna Discord server ID yahan paste karo
+Channel ID  : apna channel ID yahan paste karo
+```
+
+### Step 2 — Bot Invite Karo
+> Axis Hosting ek invite link generate karega.
+> Us link se apne Discord server mein bot ko invite karo.
+
+### Step 3 — Bot Online! ✅
+> Bas itna! Aapka Discord bot server mein online ho jayega — 24/7!
+
+---
+
+## ✅ Kya Nahi Karna
+
+- ❌ Koi code upload karne ki zarurat nahi
+- ❌ Koi programming language select karne ki zarurat nahi
+- ❌ Koi technical setup nahi
+- ❌ Koi server configure nahi karna
+
+---
+
+## 🔗 Start Karo
+
+> 👉 [axis-hosting.vercel.app/hosting](https://axis-hosting.vercel.app/hosting) par jaao, details bharo, bot invite karo — Done!
+
+<div align="center">
+
+[![Get Started](https://img.shields.io/badge/🚀%20Get%20Started-axis--hosting.vercel.app-7c3aed?style=for-the-badge)](https://axis-hosting.vercel.app/hosting)
+
+</div>

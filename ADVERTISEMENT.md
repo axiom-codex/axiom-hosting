@@ -4,7 +4,7 @@
 
 # 📣 Axis Hosting — Advertisement Kit
 
-> 💙 **Sirf Discord Bot Hosting** — 24/7 Online!
+> 💙 **Discord Bot Hosting — No Code! Bas Details Bharo & Invite Karo!**
 
 </div>
 
@@ -16,15 +16,21 @@
 ╔══════════════════════════════════════╗
 ║   🚀  A X I S   H O S T I N G  🚀   ║
 ╠══════════════════════════════════════╣
+║  💙 Discord Bot Hosting            ║
+║  🛥️ NO CODE UPLOAD NEEDED!        ║
 ║                                      ║
-║  💙 Discord Bot Hosting ONLY        ║
-║  🆓 Free Plan — Never Expires!       ║
+║  Bas 4 details bharo:                ║
+║  🔑 Bot Token                        ║
+║  🔵 Client ID                       ║
+║  💬 Server ID                       ║
+║  📵 Channel ID                      ║
+║                                      ║
+║  Bot invite karo → Online ho gaya!  ║
 ║                                      ║
 ║  ✅  24/7 Discord Bot Online          ║
 ║  ✅  Auto-Restart on Crash           ║
 ║  ✅  Real-Time Working               ║
-║  ✅  Free Plan Forever               ║
-║  💎  Paid Plans for All Modules      ║
+║  🆓  Free Plan — Never Expires!      ║
 ║                                      ║
 ║  💰 PLANS:                           ║
 ║  🆓 Free    — ₹0    Forever          ║
@@ -45,16 +51,16 @@
 💙 Discord Bot Hosting chahiye?
 Axis Hosting try karo!
 
-🆓 Free Plan — Kabhi Expire Nahi!
-💎 Paid Plans — Sare Modules Unlock!
+🛥️ Koi code upload nahi!
+Bas ye 4 details bharo:
+🔑 Bot Token
+🔵 Client ID
+💬 Server ID
+📵 Channel ID
 
-💰 Plans:
-• Free    → ₹0 Forever
-• Starter → ₹20 / 2 Days
-• Pro     → ₹299 / 15 Days
-• VIP     → ₹500 / 60 Days
+Bot invite karo → 24/7 Online! ✅
 
-⚠️ Sirf Discord bots ke liye!
+🆓 Free Plan kabhi expire nahi!
 🔗 axis-hosting.vercel.app/hosting
 ```
 
@@ -63,22 +69,22 @@ Axis Hosting try karo!
 ## 🐦 Twitter / X Post
 
 ```
-💙 Discord Bot Hosting chahiye?
+💙 Discord Bot Hosting?
 Try Axis Hosting!
 
+🛥️ No code upload needed!
+Bas 4 details bharo:
+🔑 Bot Token
+🔵 Client ID
+💬 Server ID
+📵 Channel ID
+
+Bot invite karo → 24/7 Online! ⚡
+
 🆓 Free Plan — Never Expires!
-💎 Paid Plans unlock everything!
-
-💰 Plans starting ₹20:
-• Starter  ₹20  / 2 Days
-• Pro      ₹299 / 15 Days
-• VIP      ₹500 / 60 Days
-• Admin    ₹799 / 7 Days
-
-🤖⚡ Discord bot ALWAYS online!
 👉 axis-hosting.vercel.app/hosting
 
-#Discord #DiscordBot #BotHosting #Dev
+#Discord #DiscordBot #BotHosting #NoCode
 ```
 
 ---
@@ -88,7 +94,16 @@ Try Axis Hosting!
 ```
 🌟 __**AXIS HOSTING**__ 🌟
 
-> 💙 Discord Bot Hosting — Free Plan Kabhi Expire Nahi!
+> 💙 Discord Bot Hosting
+> 🛥️ **Koi code upload nahi!**
+
+🔑 Bas ye 4 details bharo:
+> • Bot Token
+> • Client ID
+> • Server ID
+> • Channel ID
+
+Bot invite karo → **24/7 Online!** ✅
 
 🔥 **Features:**
 ╠ ⏰ 24/7 Discord Bot Online
@@ -104,9 +119,6 @@ Try Axis Hosting!
 > 👑 VIP     — ₹500 / 60 Days
 > 🛡️ Admin   — ₹799 / 7 Days
 
-⚠️ Sirf Discord bots supported hain!
-⚠️ Paid plan expire hone par premium bots offline!
-
 🔗 **Link:** axis-hosting.vercel.app/hosting
 ```
 
@@ -115,6 +127,6 @@ Try Axis Hosting!
 <div align="center">
 
 [![Visit Now](https://img.shields.io/badge/🚀%20Visit%20Now-Axis%20Hosting-7c3aed?style=for-the-badge)](https://axis-hosting.vercel.app/hosting)
-[![Plans](https://img.shields.io/badge/💰%20Plans-%E2%82%B90%20to%20%E2%82%B9799-f59e0b?style=for-the-badge)](https://axis-hosting.vercel.app/hosting)
+[![No Code](https://img.shields.io/badge/🛥️%20Setup-No%20Code%20Needed-22c55e?style=for-the-badge)](https://axis-hosting.vercel.app/hosting)
 
 </div>
