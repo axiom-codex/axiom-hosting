@@ -8,16 +8,16 @@
 [![Status](https://img.shields.io/badge/⚡%20STATUS-LIVE-00C853?style=for-the-badge)](https://axis-hosting.vercel.app)
 [![Discord](https://img.shields.io/badge/🔐%20LOGIN-Discord%20%7C%20Email-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://axis-hosting.vercel.app)
 [![Free Forever](https://img.shields.io/badge/🆓%20Free%20Plan-Forever-22c55e?style=for-the-badge)](https://axis-hosting.vercel.app/hosting)
-[![Pro](https://img.shields.io/badge/💎%20Pro-₹299%20%2F%2015d-7c3aed?style=for-the-badge)](https://axis-hosting.vercel.app/hosting)
-[![VIP](https://img.shields.io/badge/👑%20VIP-₹500%20%2F%2060d-f59e0b?style=for-the-badge)](https://axis-hosting.vercel.app/hosting)
+[![Pro](https://img.shields.io/badge/💎%20Pro-%E2%82%B9299%20%2F%2015d-7c3aed?style=for-the-badge)](https://axis-hosting.vercel.app/hosting)
+[![VIP](https://img.shields.io/badge/👑%20VIP-%E2%82%B9500%20%2F%2060d-f59e0b?style=for-the-badge)](https://axis-hosting.vercel.app/hosting)
 
 <br/>
 
 # 🚀 Axis Hosting (Promo Hub)
 
-### ✨ *One Platform to Promote Discord Servers, Websites, Bots, Chat & Music* ✨
+### ✨ *One Platform to Promote Discord Servers, Websites & Host Discord Bots* ✨
 
-🌟 **Free Plan Never Expires • Fast • Multi-Feature • Developer & Community Friendly** 🌟
+🌟 **Free Plan Never Expires • Fast • Discord Bot Hosting • Developer & Community Friendly** 🌟
 
 </div>
 
@@ -27,13 +27,15 @@
 
 ## 🎯 About the Project
 
-**Axis Hosting (Promo Hub)** ek powerful unified platform hai jo developers, community owners aur creators ko **ek hi jagah** se Discord servers promote karne, websites promote karne, bots host karne, chat tools aur music features use karne ki facility deta hai.
+**Axis Hosting (Promo Hub)** ek powerful unified platform hai jo developers, community owners aur creators ko **ek hi jagah** se Discord servers promote karne, websites promote karne, aur **Discord bots** host karne ki facility deta hai.
 
-> 🆓 **Free plan kabhi expire nahi hoti!** Paid plans mein sare bot modules unlock hote hain — expire hone par premium bots offline ho jaate hain jab tak renew na karo.
+> 💙 **Sirf Discord bots** host hote hain — Telegram/WhatsApp bots supported nahi hain.
+
+> 🆓 **Free plan kabhi expire nahi hoti!** Paid plans mein sare Discord bot modules unlock hote hain.
 
 - 📢 Discord servers list & promote kar sakte ho
 - 🌐 Websites promote kar sakte ho
-- 🤖 Bots host / manage kar sakte ho
+- 🤖 **Discord bots** host / manage kar sakte ho
 - 💬 Chat aur music related tools use kar sakte ho
 
 ---
@@ -42,13 +44,13 @@
 
 | &nbsp; | Plan | Price | Duration | Features |
 |:---:|---|:---:|:---:|---|
-| 🆓 | **Free** | ₹0 | Forever ♾️ | Simple bots, normal promotion |
+| 🆓 | **Free** | ₹0 | Forever ♾️ | Simple Discord bots, normal promotion |
 | 🚀 | **Starter** | ₹20 | 2 Days | All modules, high promotion |
 | 💎 | **Pro** | ₹299 | 15 Days | All modules, premium boost, priority support |
 | 👑 | **VIP** | ₹500 | 60 Days | All modules, VIP badge, highest priority, dedicated support |
 | 🛡️ | **Admin Panel** | ₹799 | 7 Days | Admin tools — ban/unban, grant badges & premium |
 
-> ⚠️ **Important:** Paid plan expire hone par premium bots offline ho jaate hain. Renew karo to unhe wapas online lao!
+> ⚠️ Paid plan expire hone par premium Discord bots offline ho jaate hain. Renew karo to continue!
 
 ---
 
@@ -56,15 +58,14 @@
 
 | &nbsp; | Feature | Description |
 |:---:|---|---|
+| 💙 | **Discord Bot Only** | Sirf Discord bots supported hain |
 | 📢 | **Discord Server Promo** | Servers list, bump & promote easily |
 | 🌐 | **Website Promotion** | Websites ko visibility do |
-| 🤖 | **Bot Hosting** | Free plan forever — paid plans for all modules |
+| 🤖 | **Discord Bot Hosting** | Free plan forever — paid plans for all modules |
 | 💬 | **Chat Tools** | Built-in chat features |
-| 🎵 | **Music Support** | Music related tools & features |
+| 🎵 | **Music Support** | Discord music bot hosting |
 | 🔐 | **Easy Auth** | Discord OAuth + Email/Password login |
-| 🌍 | **Multi-language** | Google Translate support |
-| 📱 | **Clean UI** | Modern dark theme dashboard |
-| ⏰ | **24/7 Uptime** | Bots hamesha online rahenge |
+| ⏰ | **24/7 Uptime** | Discord bots hamesha online rahenge |
 | 🔄 | **Auto-Restart** | Bot crash hone par automatic recovery |
 
 ---
@@ -76,7 +77,7 @@
 | 🔑 | **Login / Sign Up** | Discord se continue ya Email + Password |
 | 🖥️ | **Dashboard** | Main control panel (login ke baad) |
 | 📢 | **Promo / Listing** | Discord servers & websites promote karne ka area |
-| 🤖 | **Bot Hosting** | [Visit Here](https://axis-hosting.vercel.app/hosting) |
+| 🤖 | **Discord Bot Hosting** | [Visit Here](https://axis-hosting.vercel.app/hosting) |
 | 🎵 | **Chat & Music** | Community tools |
 | ⚙️ | **Profile / Settings** | Account management |
 
@@ -100,7 +101,7 @@
 1. 🔗  https://axis-hosting.vercel.app visit karo
 2. 🔐  Discord se login karo ya Email se account banao
 3. 🖥️  Dashboard open hoga
-4. 🤖  Free plan se bots add karo
+4. 🤖  Apna Discord bot free plan se add karo
 5. 💎  Upgrade karo jab zyada features chahiye!
 ```
 
@@ -111,7 +112,7 @@
 🟢 **LIVE** on Vercel  
 ⚡ Fast & responsive  
 🔐 Secure login options  
-🤖 Bot Hosting 24/7 Active
+💙 Discord Bot Hosting Only
 
 ---
 

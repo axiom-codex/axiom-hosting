@@ -4,52 +4,52 @@
 
 # 💰 Axis Hosting — Pricing Plans
 
-> Free plan kabhi expire nahi hota! Paid plans mein sare modules unlock ho jaate hain.
+> 💙 **Sirf Discord Bot Hosting** — Free plan kabhi expire nahi hota!
 
-[![Free Plan](https://img.shields.io/badge/Free-₹0%20Forever-22c55e?style=for-the-badge&logo=cashapp&logoColor=white)](https://axis-hosting.vercel.app/hosting)
-[![Starter](https://img.shields.io/badge/Starter-₹20%20%2F%202d-3b82f6?style=for-the-badge)](https://axis-hosting.vercel.app/hosting)
-[![Pro](https://img.shields.io/badge/Pro-₹299%20%2F%2015d-7c3aed?style=for-the-badge)](https://axis-hosting.vercel.app/hosting)
-[![VIP](https://img.shields.io/badge/VIP-₹500%20%2F%2060d-f59e0b?style=for-the-badge)](https://axis-hosting.vercel.app/hosting)
-[![Admin](https://img.shields.io/badge/Admin%20Panel-₹799%20%2F%207d-ef4444?style=for-the-badge)](https://axis-hosting.vercel.app/hosting)
+[![Free Plan](https://img.shields.io/badge/Free-₹0%20Forever-22c55e?style=for-the-badge)](https://axis-hosting.vercel.app/hosting)
+[![Starter](https://img.shields.io/badge/Starter-%E2%82%B920%20%2F%202d-3b82f6?style=for-the-badge)](https://axis-hosting.vercel.app/hosting)
+[![Pro](https://img.shields.io/badge/Pro-%E2%82%B9299%20%2F%2015d-7c3aed?style=for-the-badge)](https://axis-hosting.vercel.app/hosting)
+[![VIP](https://img.shields.io/badge/VIP-%E2%82%B9500%20%2F%2060d-f59e0b?style=for-the-badge)](https://axis-hosting.vercel.app/hosting)
+[![Admin](https://img.shields.io/badge/Admin%20Panel-%E2%82%B9799%20%2F%207d-ef4444?style=for-the-badge)](https://axis-hosting.vercel.app/hosting)
 
 </div>
 
 ---
 
 ## 🆓 Free Plan — ₹0
-> **Simple hosting, kabhi expire nahi hota!**
+> **Simple Discord bot hosting, kabhi expire nahi hota!**
 
 | &nbsp; | Feature | Status |
 |:---:|---|:---:|
-| 🤖 | Simple bot hosting (forever free) | ✅ |
+| 🤖 | Simple Discord bot hosting (forever free) | ✅ |
 | 👋 | Welcome + Support + Simple command bots | ✅ |
 | ⚙️ | Custom command prefix | ✅ |
 | 📢 | Normal listing promotion | ✅ |
 | 🌐 | Open hosting | ✅ |
-| ⏰ | Never expires | ✅ |
+| ♾️ | Never expires | ✅ |
 
 ---
 
 ## 🚀 Starter Plan — ₹20 / 2 Days
-> **All bots for 2 days!**
+> **All Discord bot modules for 2 days!**
 
 | &nbsp; | Feature | Status |
 |:---:|---|:---:|
-| 🔓 | All bot modules unlocked | ✅ |
+| 🔓 | All Discord bot modules unlocked | ✅ |
 | 📈 | High promotion on listings | ✅ |
 | ⏳ | Valid for 2 days only | ✅ |
 | ⚠️ | Premium bots go offline after expiry | ⚠️ |
 
-> ⚠️ **Note:** Plan khatam hone par premium bots offline ho jaate hain — renew karo to continue!
+> ⚠️ Plan khatam hone par premium Discord bots offline ho jaate hain — renew karo to continue!
 
 ---
 
 ## 💎 Pro Plan — ₹299 / 15 Days
-> **15 days full hosting!**
+> **15 days full Discord bot hosting!**
 
 | &nbsp; | Feature | Status |
 |:---:|---|:---:|
-| 🔓 | All bot modules | ✅ |
+| 🔓 | All Discord bot modules | ✅ |
 | 🗓️ | 15 days hosting | ✅ |
 | 🚀 | Premium listing boost | ✅ |
 | 🎯 | Priority support | ✅ |
@@ -61,7 +61,7 @@
 
 | &nbsp; | Feature | Status |
 |:---:|---|:---:|
-| 🔓 | All bot modules | ✅ |
+| 🔓 | All Discord bot modules | ✅ |
 | 🗓️ | 60 days (2 months) hosting | ✅ |
 | 🏅 | VIP profile badge | ✅ |
 | 📣 | Highest promotion priority | ✅ |
@@ -90,17 +90,16 @@
 |---|:---:|:---:|:---:|:---:|:---:|
 | **Price** | ₹0 | ₹20 | ₹299 | ₹500 | ₹799 |
 | **Duration** | Forever | 2 Days | 15 Days | 60 Days | 7 Days |
-| **Simple Bots** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Discord Bot** | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **All Bot Modules** | ❌ | ✅ | ✅ | ✅ | ❌ |
 | **Listing Promotion** | Normal | High | Premium | Highest | ❌ |
 | **Priority Support** | ❌ | ❌ | ✅ | ✅ | ❌ |
 | **VIP Badge** | ❌ | ❌ | ❌ | ✅ | ❌ |
 | **Admin Panel** | ❌ | ❌ | ❌ | ❌ | ✅ |
-| **Ban/Unban Users** | ❌ | ❌ | ❌ | ❌ | ✅ |
 
 ---
 
-> ⚠️ **Important:** Paid plan expire hone par premium bots offline ho jaate hain. Renew karo to unhe wapas online lao!
+> ⚠️ **Important:** Sirf Discord bots supported hain. Paid plan expire hone par premium bots offline ho jaate hain!
 
 <div align="center">
 
