@@ -15,7 +15,8 @@
 ║   🚀  A X I S   H O S T I N G  🚀   ║
 ╠══════════════════════════════════════╣
 ║                                      ║
-║  🤖 Discord Bot Hosting — FREE!      ║
+║  🤖 Discord Bot Hosting              ║
+║  🎁 2 Bots FREE — Shuru Karo Aaj!   ║
 ║                                      ║
 ║  ✅  24/7 Bot Online                 ║
 ║  ✅  Real-Time Working               ║
@@ -36,10 +37,11 @@
 
 ```
 🤖 Discord Bot Hosting chahiye?
-Axis Hosting try karo — BILKUL FREE!
+Axis Hosting try karo!
 
+🎁 2 Bots BILKUL FREE!
 ⚡ 24/7 Online
-⚡ Auto-Restart  
+⚡ Auto-Restart
 ⚡ Real-Time Working
 
 🔗 axis-hosting.vercel.app/hosting
@@ -51,8 +53,9 @@ Axis Hosting try karo — BILKUL FREE!
 
 ```
 🚀 Hosting your Discord bot?
-Try Axis Hosting — It's FREE!
+Try Axis Hosting!
 
+🎁 2 Bots FREE to start!
 ✅ 24/7 Uptime
 ✅ Auto-Restart
 ✅ Real-Time Performance
@@ -61,7 +64,7 @@ Try Axis Hosting — It's FREE!
 Keep your bot ALWAYS online 🤖⚡
 👉 axis-hosting.vercel.app/hosting
 
-#Discord #BotHosting #DiscordBot #Free #Dev
+#Discord #BotHosting #DiscordBot #Dev
 ```
 
 ---
@@ -71,13 +74,14 @@ Keep your bot ALWAYS online 🤖⚡
 ```
 🌟 __**AXIS HOSTING**__ 🌟
 
-> 🤖 Apne Discord Bot ko 24/7 online rakho — Bilkul FREE!
+> 🤖 Apne Discord Bot ko 24/7 online rakho!
+> 🎁 **2 Bots FREE** — aaj hi shuru karo!
 
 🔥 **Features:**
 ╠ ⏰ 24/7 Uptime Guaranteed
 ╠ ⚡ Real-Time Working
 ╠ 🔄 Auto-Restart on Crash
-╠ 🆓 Completely Free
+╠ 🎁 2 Bots Free Plan
 ╠ 🛡️ Stable & Reliable Servers
 ╚ 🚀 Easy 1-Click Deployment
 
