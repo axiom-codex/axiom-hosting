@@ -10,7 +10,6 @@
 [![No Code](https://img.shields.io/badge/Setup-No%20Code%20Needed-f59e0b?style=for-the-badge)](https://axis-hosting.vercel.app/hosting)
 [![Free Forever](https://img.shields.io/badge/🆓%20Free%20Plan-Forever-22c55e?style=for-the-badge)](https://axis-hosting.vercel.app/hosting)
 [![Buy Plan](https://img.shields.io/badge/💰%20Buy%20Plan-Purchase%20Now-7c3aed?style=for-the-badge)](https://docs.google.com/forms/d/e/1FAIpQLSdh_HPe0DVMvsXucbNy21DZ5yTkzUUJd_8gGi667yhPYbt8-w/viewform?usp=dialog)
-[![Staff Apply](https://img.shields.io/badge/👨%E2%80%8D💻%20Staff%20Apply-Join%20Team-22c55e?style=for-the-badge)](https://docs.google.com/forms/d/e/1FAIpQLSdh_HPe0DVMvsXucbNy21DZ5yTkzUUJd_8gGi667yhPYbt8-w/viewform?usp=dialog)
 
 <br/>
 
@@ -31,8 +30,7 @@
 **Axis Hosting** ek simple aur powerful **Discord bot hosting** platform hai.
 
 > ✅ **Koi code upload nahi! Koi language select nahi!**
-> Bas **4 details** bharo — Bot Token, Client ID, Server ID, Channel ID —
-> aur apne Discord server mein bot invite karo. **Bot online ho jayega!**
+> Bas **details** bharo aur apne Discord server mein bot invite karo. **Bot online ho jayega!**
 
 > 💙 Sirf Discord bots supported hain.
 > 🆓 Free plan kabhi expire nahi hoti!
@@ -42,14 +40,8 @@
 ## ⚡ Sirf 3 Steps!
 
 ```
-Step 1 → Ye 4 details bharo:
-         🔑 Bot Token    (Discord Developer Portal se)
-         🔵 Client ID   (Discord Developer Portal se)
-         💬 Server ID   (Discord server right-click se)
-         📵 Channel ID  (Discord channel right-click se)
-
+Step 1 → Form mein details bharo
 Step 2 → Bot ko apne Discord server mein invite karo
-
 Step 3 → ✅ Bot 24/7 online ho gaya!
 ```
 
@@ -71,25 +63,11 @@ Step 3 → ✅ Bot 24/7 online ho gaya!
 
 ---
 
-## 👨‍💻 Staff Apply
-
-| &nbsp; | Position | Description |
-|:---:|---|---|
-| 👨‍💻 | **Developer** | Platform develop karne mein help karo |
-| 🙋 | **Helper** | Users ki help karo |
-| 🛡️ | **Staff** | Server manage karo |
-| 👑 | **Acting Owner** | Platform ki responsibility lo |
-
-### 👉 [Staff Apply Karne Ke Liye Yahan Click Karo](https://docs.google.com/forms/d/e/1FAIpQLSdh_HPe0DVMvsXucbNy21DZ5yTkzUUJd_8gGi667yhPYbt8-w/viewform?usp=dialog)
-
----
-
 ## ✨ Key Features
 
 | &nbsp; | Feature | Description |
 |:---:|---|---|
 | 🛥️ | **No Code Upload** | Koi code ya file upload karne ki zarurat nahi |
-| 🔑 | **Simple Setup** | Bas 4 details bharo |
 | 💙 | **Discord Only** | Sirf Discord bots supported hain |
 | ⏰ | **24/7 Uptime** | Discord bots hamesha online rahenge |
 | 🔄 | **Auto-Restart** | Bot crash hone par automatic recovery |
@@ -117,7 +95,6 @@ Step 3 → ✅ Bot 24/7 online ho gaya!
 | 🌐 | **Website** | [axis-hosting.vercel.app](https://axis-hosting.vercel.app) |
 | 🤖 | **Bot Hosting** | [axis-hosting.vercel.app/hosting](https://axis-hosting.vercel.app/hosting) |
 | 💰 | **Plan Purchase Form** | [Click Here](https://docs.google.com/forms/d/e/1FAIpQLSdh_HPe0DVMvsXucbNy21DZ5yTkzUUJd_8gGi667yhPYbt8-w/viewform?usp=dialog) |
-| 👨‍💻 | **Staff Apply Form** | [Click Here](https://docs.google.com/forms/d/e/1FAIpQLSdh_HPe0DVMvsXucbNy21DZ5yTkzUUJd_8gGi667yhPYbt8-w/viewform?usp=dialog) |
 
 ---
 
@@ -127,7 +104,6 @@ Step 3 → ✅ Bot 24/7 online ho gaya!
 
 [![Visit Now](https://img.shields.io/badge/🚀%20Visit%20Now-axis--hosting.vercel.app-7c3aed?style=for-the-badge)](https://axis-hosting.vercel.app)
 [![Buy Plan](https://img.shields.io/badge/💰%20Buy%20Plan-Purchase%20Now-7c3aed?style=for-the-badge)](https://docs.google.com/forms/d/e/1FAIpQLSdh_HPe0DVMvsXucbNy21DZ5yTkzUUJd_8gGi667yhPYbt8-w/viewform?usp=dialog)
-[![Staff Apply](https://img.shields.io/badge/👨%E2%80%8D💻%20Staff%20Apply-Join%20Team-22c55e?style=for-the-badge)](https://docs.google.com/forms/d/e/1FAIpQLSdh_HPe0DVMvsXucbNy21DZ5yTkzUUJd_8gGi667yhPYbt8-w/viewform?usp=dialog)
 [![GitHub Stars](https://img.shields.io/github/stars/sumitjilowa34-oss/axiom-hosting?style=for-the-badge&color=yellow&label=⭐%20Stars)](https://github.com/sumitjilowa34-oss/axiom-hosting)
 
 > ⭐ Agar aapko ye platform pasand aayi to repo ko **Star** zaroor karein!
